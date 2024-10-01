@@ -9,3 +9,4 @@ This project is a responsive webpage designed to display recent updates and chan
 - **Timeline View**: Updates are listed chronologically in a clean and organized timeline.
 - **Semantic HTML**: Utilizes HTML5 tags like `<time>`, `<article>`, and `<section>` for better accessibility and search engine optimization (SEO).
 - **Optimized Performance**: Includes best practices like preloading CSS and minimizing external resource requests.
+https://roadmap.sh/projects/changelog-component
